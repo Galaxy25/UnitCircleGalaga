@@ -1,0 +1,2635 @@
+fileFormatVersion: 2
+guid: 566d1a61236184c4ba16b734ef5d28e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 357
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee84c5a2fa9d3a4692268f8012bfdc9
+      internalID: -287815414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 357
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3699dc58f6cb743bcd9ae081c67bcb
+      internalID: -1610569274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 357
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd4b3a643d87a489a12313b38b62f6
+      internalID: -1214828105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 357
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f589228bf69a034b89b6e4e251fbaf6
+      internalID: -403512915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 352
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b2aca34715ec144a5f7298685eed46
+      internalID: -358728539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 357
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc5f9c84d7d7b94fa27e3378f89cddd
+      internalID: 601639238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 305
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0126203df7154d99e2cc5c5cf40f5
+      internalID: 1178985583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 305
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc55f15ceb94554aa0738504cc1b918
+      internalID: 311218502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 305
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cd2aa5e170cc643bec15c6bf04f34a
+      internalID: 572677951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de0016f2abe324f812aed0b41c7b38
+      internalID: -1381643209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_10
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 305
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fd80007e756b64eb128b1fee987a8d
+      internalID: -1377142782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 305
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f19b8c0674c24d8235920821d054c
+      internalID: 2135534545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c5bcbefd5f3f489c7bc62ebb0e38b
+      internalID: 677360920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 293
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8afde0dbee6834190030845f96f7e2
+      internalID: -283519626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 292
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576b4e6d128e4a4eb199a42167abbc4
+      internalID: 170588830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 290
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4c39d93b1f17f40b5bae409d0daa70
+      internalID: 395690553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 130
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0262d062d2ff5594581cede17672a9c2
+      internalID: 1081779291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 289
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41df979ed0c11ad41953b37ba9d079e2
+      internalID: 380408462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 130
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943dcd9d1a9cc07448731143121f9205
+      internalID: 1641173025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 309
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1c28a2fae7db447956142c48c0989a
+      internalID: -1576670274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 281
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3775d054bae9844dbfb407407f53650
+      internalID: -173155654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 281
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8832f4d56dbf644684b79db22f7ec5a
+      internalID: 1835853755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 281
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ee228e5164a604fbfc56212e0abb6b
+      internalID: -957814367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 281
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0725962a3631d4685a113b5377e890
+      internalID: 1659329342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 281
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821f6a739cd2c547b2445de1148612b
+      internalID: 2053047694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 281
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e056680af6ae345b8a7716ed7bc8e0
+      internalID: -392579703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 282
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25663b3c458c7d14aabd32bb0002c8ae
+      internalID: 188829532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df4350a277a1c4fb8a77e4ebe6c1e7
+      internalID: -762684694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4278c164351d3244fb586a9d7a2477db
+      internalID: -462374861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 257
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea01e9a2f45204990d4b3ac6af0ea2
+      internalID: 1499418796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f734d5f10485439bca87226861ee4
+      internalID: 1421012216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057fcb7b181fc44bb7420d8c546fe75
+      internalID: 146235413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 258
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfee7c59ec2ad047876dbd68e8f4093
+      internalID: -1340592620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34f5bfdf31c7e4e8d25a9989b36762
+      internalID: -609847115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 258
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e6dd3f253301841b4addd34fd8238e
+      internalID: 1942121477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652db37cb37f97409956b93880f59c7
+      internalID: 413653936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add27968f10020a46afbe95d53993acb
+      internalID: -1808654090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b51f5523c8394dbd194988afbbc10
+      internalID: 1192394730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 233
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee2c73434335341aac96083c56f67f
+      internalID: -1893570408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12b482b1b76f6540a8cec4319e724d2
+      internalID: 213483257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 234
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d4e277bedb64419d5469c449aa7cc
+      internalID: -2121978482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a3baf43871b534387679b2a97e35b0
+      internalID: 908791500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916350d3cce80548bb9818430c6e452
+      internalID: 425919977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e300a20fe09b146b7a9329b5f8580d
+      internalID: 629480905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 212
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be875807fa6ac874b86022b469edb855
+      internalID: 1869958105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 211
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893514bd06b24184fa4c323932e2771d
+      internalID: 2030587848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 211
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b640ba86e0f9a914da72a471ec19804f
+      internalID: -333914738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 211
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a3f9f445338734c87b92b3cf4abaa8
+      internalID: -1405068784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 210
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d203f394c707ea47bfda6fdd40f746c
+      internalID: 551300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 212
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5667f15cdf2518743a3cd4de863b898e
+      internalID: 1413823275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 211
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0401405ff8ecebe4da746fdf988cad68
+      internalID: -1523642785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_93
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0e21d1acaf94248a0c72296fdc91db
+      internalID: 159141305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_94
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 188
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fad135cef78c94faef605ba4b8b50f
+      internalID: 377444354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_95
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35528b09ad3a4f74db07bd97ef726273
+      internalID: 1657555418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5c3802575b7b49bd65d5190e1b5bc
+      internalID: -770831911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_97
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e5b428092c4be41966e64426beddb7
+      internalID: -2069376198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_98
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 187
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9939dfc15dbd942937307eaa237273
+      internalID: -1915813605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 138
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33faa528b2f14f428f23010015a22e1
+      internalID: 867378814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 187
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355441692378ba24fbb6469a00e4ad6a
+      internalID: 1482054374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_101
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6032525ce68ad46b2c35ec0528ba1b
+      internalID: -645472889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_102
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4238026a20c334ea8dba6b67cd6126
+      internalID: 1970465059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_103
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 186
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f837d9c3e1a374ca2ffc7c75bc4136
+      internalID: 1142378008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be843539737fb994584c5e86ae623815
+      internalID: -1965231693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_105
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 139
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6ae2ca62ee1a9499a374a8c1698b05
+      internalID: 1802291055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_106
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 186
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278454a70ed3b2d439a82f001a4c17df
+      internalID: 1019191004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_107
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 142
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3aad89827302540a6fe75dc181a405
+      internalID: 172587098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_108
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 164
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26691659e09082439e1e6c9c9605487
+      internalID: 287974192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fe5c058ca570c4abb50e9cff868a97
+      internalID: -582891810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 141
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca90a0f58c30be4293cddee94678a4e
+      internalID: -765064575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 187
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b288e68ff7774ba83eacfc395d7a3
+      internalID: -901687891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef725997c437a34ebc935bb90817376
+      internalID: -293475576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 140
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f73621721ba0b14f858fa232de5a3bb
+      internalID: 505516090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_114
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 187
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8254d8d5230547abc1aab3adb3af2
+      internalID: -1410385731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_124
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 115
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e88b87dd3ca1784eb11445562a958ed
+      internalID: 1981546771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_125
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 115
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab6be6446ed42c4ba361a4c95a0d6e5
+      internalID: 2083525283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_126
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea6e335db913541a27116ae116051f
+      internalID: 1538478858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_127
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1780e63b284d746b95e17984e6c2c4
+      internalID: -1722579886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_128
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48376e00b59f4d540adecbe2979783d9
+      internalID: 1019388126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_129
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 115
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f41cc6827c6da4aa313681bf93c919
+      internalID: -677157269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_130
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0723a155540ff240910da67d50e2f4a
+      internalID: 1594752866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_131
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 91
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a7fff13c2974b49a177d10b61f2301
+      internalID: 1405273627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 91
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7e352121620642a050d5010985721
+      internalID: 1219045315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_133
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9507427c72f5545b71f9593770c736
+      internalID: -202574106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a594f1bbfcaff1645a544882b06e6569
+      internalID: 2123918055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_135
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 92
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45c76f1bbd54f4fb5cfc7ffe00a59a
+      internalID: 1963048647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_136
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 91
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc5478450730949812aef4ab92ee0d
+      internalID: 1774730776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_137
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c3ade0bb219f7418950337610e6523
+      internalID: -2051959161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_138
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e78cafc1d6fc44b48ebf47f111b5c
+      internalID: 508161484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_139
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2edb7ee1d284e4691fd9fe983fed2a
+      internalID: 553144801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_140
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 89
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef7aa7652c588245a8fd72326a02b18
+      internalID: 791321279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_141
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 89
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2928487c65935704c8a33acd08a0b279
+      internalID: 1158402048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_142
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 89
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057796e7406dc7488a21828c0131dbf
+      internalID: 1047997066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_143
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 89
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e744208e69057b4db5ef87821decc94
+      internalID: -1565642642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_144
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 65
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed518514de3d27f4c9f4a5ca94d5885c
+      internalID: 176645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_145
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c395f5a158225dc4893700f4e5a6faaf
+      internalID: 676479191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_146
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8fd015123a7947b757e0d158c40d9
+      internalID: 715213115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459304378c78ebd4ab5f68acbca85706
+      internalID: 1145198501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_148
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bfd7ed964df9d40a13533b9d79df99
+      internalID: 997435663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e925db75e08a7624d8eb316d4efcb18e
+      internalID: 1268119493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524c9f1d72c6e8409d8d583a4b5295a
+      internalID: -900240965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_151
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc1717bd9afe94489bc8b30e470722
+      internalID: -1244574944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_152
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac67c7c5ca139764e8c7c1b4063fabfe
+      internalID: -468147752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_153
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266eebf5f914a864fbaeda7fa151526e
+      internalID: 589641116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405829dc1ec3514bae07eae7e1803e5
+      internalID: -1675134877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_155
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 13
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e848d69529048a4386863cccdc5c9bc
+      internalID: -1516187042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89aab2ba0ac6644f8a75ef4d9a16704
+      internalID: -1314763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44263d829c18b3a41930df8f69ff332a
+      internalID: -148160130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_158
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca2541da868264f97f5e653b300c7d
+      internalID: -328223066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce5a3eb13bd0b42b315a8948f32a8a
+      internalID: 2000678745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-galaga-png-1136169_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 139
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80921d158c4c3c34a9b8db4194f623c0
+      internalID: 441343220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngkey.com-galaga-png-1136169_0: -287815414
+      pngkey.com-galaga-png-1136169_1: -1610569274
+      pngkey.com-galaga-png-1136169_10: -1377142782
+      pngkey.com-galaga-png-1136169_100: 1482054374
+      pngkey.com-galaga-png-1136169_101: -645472889
+      pngkey.com-galaga-png-1136169_102: 1970465059
+      pngkey.com-galaga-png-1136169_103: 1142378008
+      pngkey.com-galaga-png-1136169_104: -1965231693
+      pngkey.com-galaga-png-1136169_105: 1802291055
+      pngkey.com-galaga-png-1136169_106: 1019191004
+      pngkey.com-galaga-png-1136169_107: 172587098
+      pngkey.com-galaga-png-1136169_108: 287974192
+      pngkey.com-galaga-png-1136169_109: -582891810
+      pngkey.com-galaga-png-1136169_11: 2135534545
+      pngkey.com-galaga-png-1136169_110: -765064575
+      pngkey.com-galaga-png-1136169_111: -901687891
+      pngkey.com-galaga-png-1136169_112: -293475576
+      pngkey.com-galaga-png-1136169_113: 505516090
+      pngkey.com-galaga-png-1136169_114: -1410385731
+      pngkey.com-galaga-png-1136169_115: -624291005
+      pngkey.com-galaga-png-1136169_116: 1390780222
+      pngkey.com-galaga-png-1136169_117: -264851655
+      pngkey.com-galaga-png-1136169_118: 962452687
+      pngkey.com-galaga-png-1136169_119: -2083017569
+      pngkey.com-galaga-png-1136169_12: 677360920
+      pngkey.com-galaga-png-1136169_120: -1995851381
+      pngkey.com-galaga-png-1136169_121: -335804630
+      pngkey.com-galaga-png-1136169_122: -748430656
+      pngkey.com-galaga-png-1136169_123: 417645007
+      pngkey.com-galaga-png-1136169_124: 1981546771
+      pngkey.com-galaga-png-1136169_125: 2083525283
+      pngkey.com-galaga-png-1136169_126: 1538478858
+      pngkey.com-galaga-png-1136169_127: -1722579886
+      pngkey.com-galaga-png-1136169_128: 1019388126
+      pngkey.com-galaga-png-1136169_129: -677157269
+      pngkey.com-galaga-png-1136169_13: -283519626
+      pngkey.com-galaga-png-1136169_130: 1594752866
+      pngkey.com-galaga-png-1136169_131: 1405273627
+      pngkey.com-galaga-png-1136169_132: 1219045315
+      pngkey.com-galaga-png-1136169_133: -202574106
+      pngkey.com-galaga-png-1136169_134: 2123918055
+      pngkey.com-galaga-png-1136169_135: 1963048647
+      pngkey.com-galaga-png-1136169_136: 1774730776
+      pngkey.com-galaga-png-1136169_137: -2051959161
+      pngkey.com-galaga-png-1136169_138: 508161484
+      pngkey.com-galaga-png-1136169_139: 553144801
+      pngkey.com-galaga-png-1136169_14: 170588830
+      pngkey.com-galaga-png-1136169_140: 791321279
+      pngkey.com-galaga-png-1136169_141: 1158402048
+      pngkey.com-galaga-png-1136169_142: 1047997066
+      pngkey.com-galaga-png-1136169_143: -1565642642
+      pngkey.com-galaga-png-1136169_144: 176645342
+      pngkey.com-galaga-png-1136169_145: 676479191
+      pngkey.com-galaga-png-1136169_146: 715213115
+      pngkey.com-galaga-png-1136169_147: 1145198501
+      pngkey.com-galaga-png-1136169_148: 997435663
+      pngkey.com-galaga-png-1136169_149: 1268119493
+      pngkey.com-galaga-png-1136169_15: 395690553
+      pngkey.com-galaga-png-1136169_150: -900240965
+      pngkey.com-galaga-png-1136169_151: -1244574944
+      pngkey.com-galaga-png-1136169_152: -468147752
+      pngkey.com-galaga-png-1136169_153: 589641116
+      pngkey.com-galaga-png-1136169_154: -1675134877
+      pngkey.com-galaga-png-1136169_155: -1516187042
+      pngkey.com-galaga-png-1136169_156: -1314763
+      pngkey.com-galaga-png-1136169_157: -148160130
+      pngkey.com-galaga-png-1136169_158: -328223066
+      pngkey.com-galaga-png-1136169_16: 1081779291
+      pngkey.com-galaga-png-1136169_17: 380408462
+      pngkey.com-galaga-png-1136169_18: 1641173025
+      pngkey.com-galaga-png-1136169_19: -1576670274
+      pngkey.com-galaga-png-1136169_2: -1214828105
+      pngkey.com-galaga-png-1136169_20: 2000678745
+      pngkey.com-galaga-png-1136169_21: -173155654
+      pngkey.com-galaga-png-1136169_22: 1835853755
+      pngkey.com-galaga-png-1136169_23: -957814367
+      pngkey.com-galaga-png-1136169_24: 1659329342
+      pngkey.com-galaga-png-1136169_25: 2053047694
+      pngkey.com-galaga-png-1136169_26: -392579703
+      pngkey.com-galaga-png-1136169_27: 188829532
+      pngkey.com-galaga-png-1136169_28: 441343220
+      pngkey.com-galaga-png-1136169_29: -1915510981
+      pngkey.com-galaga-png-1136169_3: -403512915
+      pngkey.com-galaga-png-1136169_30: -1434591861
+      pngkey.com-galaga-png-1136169_31: 131360701
+      pngkey.com-galaga-png-1136169_32: 1391014045
+      pngkey.com-galaga-png-1136169_33: -762684694
+      pngkey.com-galaga-png-1136169_34: -462374861
+      pngkey.com-galaga-png-1136169_35: 1499418796
+      pngkey.com-galaga-png-1136169_36: 1421012216
+      pngkey.com-galaga-png-1136169_37: 146235413
+      pngkey.com-galaga-png-1136169_38: -1340592620
+      pngkey.com-galaga-png-1136169_39: -609847115
+      pngkey.com-galaga-png-1136169_4: -358728539
+      pngkey.com-galaga-png-1136169_40: 1942121477
+      pngkey.com-galaga-png-1136169_41: 413653936
+      pngkey.com-galaga-png-1136169_42: -1808654090
+      pngkey.com-galaga-png-1136169_43: 1192394730
+      pngkey.com-galaga-png-1136169_44: -1893570408
+      pngkey.com-galaga-png-1136169_45: 213483257
+      pngkey.com-galaga-png-1136169_46: -2121978482
+      pngkey.com-galaga-png-1136169_47: 908791500
+      pngkey.com-galaga-png-1136169_48: 425919977
+      pngkey.com-galaga-png-1136169_49: -1137106267
+      pngkey.com-galaga-png-1136169_5: 601639238
+      pngkey.com-galaga-png-1136169_50: 1546764197
+      pngkey.com-galaga-png-1136169_51: -2134828124
+      pngkey.com-galaga-png-1136169_52: 949532930
+      pngkey.com-galaga-png-1136169_53: 1406189570
+      pngkey.com-galaga-png-1136169_54: 1680804710
+      pngkey.com-galaga-png-1136169_55: -352352866
+      pngkey.com-galaga-png-1136169_56: 1759965892
+      pngkey.com-galaga-png-1136169_57: 2033790751
+      pngkey.com-galaga-png-1136169_58: 356524901
+      pngkey.com-galaga-png-1136169_59: 1772948120
+      pngkey.com-galaga-png-1136169_6: 1178985583
+      pngkey.com-galaga-png-1136169_60: 759697063
+      pngkey.com-galaga-png-1136169_61: -756902191
+      pngkey.com-galaga-png-1136169_62: -1770245770
+      pngkey.com-galaga-png-1136169_63: 124801214
+      pngkey.com-galaga-png-1136169_64: 2118385093
+      pngkey.com-galaga-png-1136169_65: -846100481
+      pngkey.com-galaga-png-1136169_66: -583855985
+      pngkey.com-galaga-png-1136169_67: 629480905
+      pngkey.com-galaga-png-1136169_68: 1869958105
+      pngkey.com-galaga-png-1136169_69: 2030587848
+      pngkey.com-galaga-png-1136169_7: 311218502
+      pngkey.com-galaga-png-1136169_70: -333914738
+      pngkey.com-galaga-png-1136169_71: -1405068784
+      pngkey.com-galaga-png-1136169_72: 551300762
+      pngkey.com-galaga-png-1136169_73: 1413823275
+      pngkey.com-galaga-png-1136169_74: -1523642785
+      pngkey.com-galaga-png-1136169_75: -1692157089
+      pngkey.com-galaga-png-1136169_76: -920525673
+      pngkey.com-galaga-png-1136169_77: 2027481137
+      pngkey.com-galaga-png-1136169_78: 1149866422
+      pngkey.com-galaga-png-1136169_79: -383913924
+      pngkey.com-galaga-png-1136169_8: 572677951
+      pngkey.com-galaga-png-1136169_80: -1631417050
+      pngkey.com-galaga-png-1136169_81: 354510867
+      pngkey.com-galaga-png-1136169_82: -221932977
+      pngkey.com-galaga-png-1136169_83: -1907165480
+      pngkey.com-galaga-png-1136169_84: 1214795382
+      pngkey.com-galaga-png-1136169_85: -747460188
+      pngkey.com-galaga-png-1136169_86: 1190916021
+      pngkey.com-galaga-png-1136169_87: 1840779476
+      pngkey.com-galaga-png-1136169_88: 2095096103
+      pngkey.com-galaga-png-1136169_89: 463476748
+      pngkey.com-galaga-png-1136169_9: -1381643209
+      pngkey.com-galaga-png-1136169_90: 786908495
+      pngkey.com-galaga-png-1136169_91: 919466266
+      pngkey.com-galaga-png-1136169_92: -1641168118
+      pngkey.com-galaga-png-1136169_93: 159141305
+      pngkey.com-galaga-png-1136169_94: 377444354
+      pngkey.com-galaga-png-1136169_95: 1657555418
+      pngkey.com-galaga-png-1136169_96: -770831911
+      pngkey.com-galaga-png-1136169_97: -2069376198
+      pngkey.com-galaga-png-1136169_98: -1915813605
+      pngkey.com-galaga-png-1136169_99: 867378814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
