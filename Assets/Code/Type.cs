@@ -16,10 +16,13 @@ public class Type : MonoBehaviour
 
     private TextMeshProUGUI text;
 
+    public static Type Instance;
+
     void Start()
     {
+        Instance = this;
         text = GetComponent<TextMeshProUGUI>();
-        text.text = "Hello World!";
+        text.text = "";
     }
 
     private void Update()
@@ -115,5 +118,12 @@ public class Type : MonoBehaviour
         {
             return "";
         }
+    }
+
+    public void Reset()
+    {
+        numerator = "";
+        denominator = "";
+        dash = false;
     }
 }
